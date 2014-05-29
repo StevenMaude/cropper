@@ -1,6 +1,8 @@
 # cropper
 Attempt to port `cropper` from ScraperWiki Classic to Flask.
 
+**Not functioning yet**
+
 Original code taken from the ScraperWiki Classic repository on
 [Bitbucket](https://bitbucket.org/ScraperWiki/scraperwiki-classic/wiki/Home)
 and written by Julian Todd, Ross Jones and Francis Irving.
