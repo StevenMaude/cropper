@@ -4,3 +4,4 @@
 /app/static/jquery.autoheight.js
 /app/static/jquery.Jcrop.js
 /app/static/main.css
+*.pyc
